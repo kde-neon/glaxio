@@ -273,8 +273,8 @@ export default {
       name: "App",
       osx: "",
       project: [
-        { text: "Spinner UI", info: "Controll spinner spreed", link: "/fan", img: "/img/Spiner.jpg" },
-        { text: "Bot chat.", info: "Replay same message..", link: "/chat", img: "/img/BotChat.jpg" },
+        { text: "Spinner UI", info: "Controll spinner spreed", link: "/fan", img: "https://github.com/xoxuee/glaxio/blob/master/src/img/Spiner.jpg" },
+        { text: "Bot chat.", info: "Replay same message..", link: "/chat", img: "https://github.com/xoxuee/glaxio/blob/master/src/img/BotChat.jpg" },
         { text: "Thinking..", info: "soon. Insha'Allah", link: "/", img: "./img/UI.png" }
       ]
     };
